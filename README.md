@@ -39,7 +39,7 @@ A clean and modern landing page for a fictional digital marketing agency, built 
   [GitHub profile](https://github.com/duttachandan) 
   🧠 Role: UI/UX Consultant
 
----- **Prabir Khanra**  
+- **Prabir Khanra**  
   [GitHub profile](https://github.com/Prabir-Khanra)  
   🔍 Role: Reviewer & Testing
 
