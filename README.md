@@ -28,20 +28,17 @@ A clean and modern landing page for a fictional digital marketing agency, built 
 ## 👨‍💻 Authors
 
 ### ✨ Lead Developer & Designer
-- **Soumitra Samanta**  
-  [GitHub Profile](https://github.com/soumitra69)  
-  🛠️ Role: Frontend Developer, UI Designer
+- **Soumitra Samanta** [GitHub Profile](https://github.com/soumitra69)  
+  - 🛠️ Role: Frontend Developer, UI Designer
 
 ---
 
 ### 🤝 Contributors
-- **Chandan Dutta**  
-  [GitHub profile](https://github.com/duttachandan) 
-  🧠 Role: UI/UX Consultant
+- **Chandan Dutta** [GitHub profile](https://github.com/duttachandan) 
+  - 🧠 Role: UI/UX Consultant
 
-- **Prabir Khanra**  
-  [GitHub profile](https://github.com/Prabir-Khanra)  
-  🔍 Role: Reviewer & Testing
+- **Prabir Khanra** [GitHub profile](https://github.com/Prabir-Khanra)  
+  - 🔍 Role: Reviewer & Testing
 
 ### 🙌 Special Thanks
 - Open Source Community  
